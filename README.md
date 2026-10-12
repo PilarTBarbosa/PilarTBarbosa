@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, my name is Pilar Barbosa!<br><br>Allow me to briefly introduce myself:<br><br>What I do: I'm a first-year FCUP bioinformatics student.<br>Main Goal: Learn, enjoy myself, and graduate in good mental health.  <br>Specialty: Sleeping, eating, and learning, of course.<br>Horst fear: Accidentally delete a whole species with one pyto.<br>My dream: I dream that my codes would work on the first try.<br><br>
+Hi, my name is Pilar Barbosa!<br><br>Allow me to briefly introduce myself:<br><br>What I do: I'm a first-year FCUP bioinformatics student.<br>Main Goal: Learn, enjoy myself, and graduate in good mental health.  <br>Specialty: Sleeping, eating, and learning, of course.<br>Horst fear: Accidentally delete a whole species with one pyto.<br>My dream: I dream that my codes would work on the first try.<br><br> 
+
+html 
+<img src="<img width="3072" height="4080" alt="1790144735034 (1) (1)" src="https://github.com/user-attachments/assets/b817be56-1039-4cc2-bf96-7668a34cdfdf" />
+
 
 
 ## 🌐 Socials:
