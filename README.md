@@ -1,6 +1,7 @@
-<img width="215" height="300" align="right" alt="Dog" src="https://github.com/user-attachments/assets/99bb56c4-6605-411b-a6ad-f04e3716e0e0" />
+
 
 # 💫 About Me:
+<img width="215" height="300" align="right" alt="Dog" src="https://github.com/user-attachments/assets/99bb56c4-6605-411b-a6ad-f04e3716e0e0" />
 Hi, my name is Pilar Barbosa!<br><br>Allow me to briefly introduce myself:<br><br>What I do: I'm a first-year FCUP bioinformatics student.<br>Main Goal: Learn, enjoy myself, and graduate in good mental health.  <br>Specialty: Sleeping, eating, and learning, of course.<br>Horst fear: Accidentally delete a whole species with one pyto.<br>My dream: I dream that my codes would work on the first try.<br><br> 
 
 <br clear="right" />
