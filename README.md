@@ -17,6 +17,9 @@ Hi, my name is Pilar Barbosa!<br><br>Allow me to briefly introduce myself:<br><b
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PilarTBarbosa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
+
+<img width="215" height="300" align="right" alt="girasol" src="https://github.com/user-attachments/assets/edd19810-aebc-4dbd-8e2e-aec62b2353d7" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
